@@ -1,0 +1,232 @@
+[08:48:57,145][4304][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[08:51:12,754][5152][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[08:52:08,204][4772][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:06:44,687][2972][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:20:39,752][232][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:21:09,980][9980][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:52:30,471][8728][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:52:37,507][8728][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:52:37,554][8728][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:52:37,757][8728][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:52:37,772][8728][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:52:37,803][8728][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:43,075][9504][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:53:46,257][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,273][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,304][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,320][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,351][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,367][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,398][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,523][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,585][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,601][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:53:46,632][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:02,169][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:02,201][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:02,357][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:02,403][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:02,419][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:02,450][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:03,745][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:03,776][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:03,807][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:03,839][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:03,854][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:04,010][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:04,026][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:04,057][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:18,815][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:18,846][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:18,877][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:19,033][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:19,064][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:19,095][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:31,653][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:31,685][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:31,716][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:31,731][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:31,763][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:31,887][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:54:31,950][9504][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:55:29,553][7320][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:55:31,815][7320][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:55:31,846][7320][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:55:31,878][7320][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:55:32,049][7320][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:55:32,080][7320][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[09:55:32,096][7320][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[10:00:19,028][6520][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:00:22,180][6520][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[10:00:22,211][6520][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[10:00:36,681][6520][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[10:00:36,744][6520][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[10:00:42,445][7284][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:00:44,395][7284][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[10:00:44,411][7284][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00925: missing INTO keyword
+
+[10:01:28,851][6260][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:17:42,336][6256][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:19:50,778][6596][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:29:25,543][6624][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:29:29,490][6624][INFO ][WinDemo.TimeTable:52] - 生成课表
+[10:29:34,248][6624][INFO ][WinDemo.TimeTable:66] - 重新生成课表
+[10:33:54,982][9684][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:42:45,100][7832][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:42:46,129][7832][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:43:35,769][7472][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:43:40,262][7472][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[10:43:41,323][7472][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[10:43:51,286][7632][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:44:25,403][400][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:44:29,412][400][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[10:44:48,514][6964][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:59:45,950][8044][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:59:57,820][6684][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:00:40,357][2256][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:02:05,170][7496][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:02:11,048][8432][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:02:25,311][4468][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:04:47,086][1896][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:04:49,442][1896][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00936: missing expression
+
+[11:05:16,287][3088][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:05:18,612][3088][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00936: missing expression
+
+[11:07:11,594][6724][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:07:15,978][6724][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00936: missing expression
+
+[11:09:32,749][8992][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:11:07,488][8656][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:11:37,797][5928][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:16:48,644][8200][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:16:49,439][8200][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:16:53,737][8200][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:17:21,038][8200][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:17:37,069][8200][DEBUG][WinDemo.SubTeacher:130] - 修改操作
+[11:17:41,716][8200][DEBUG][WinDemo.SubTeacher:130] - 修改操作
+[11:23:53,232][4296][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:24:25,940][5844][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:25:34,559][7308][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:26:30,870][6484][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:26:35,386][6484][INFO ][WinDemo.TimeTable:63] - 重新生成课表
+[11:29:01,124][3292][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:29:12,625][3292][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[11:29:18,987][3292][INFO ][WinDemo.CourseInfo:77] - 删除：8,名称测试
+[11:29:39,279][3292][INFO ][WinDemo.SubCourse:79] - 添加用户测试
+[11:29:46,748][3292][INFO ][WinDemo.CourseInfo:77] - 删除：9,名称测试
+[13:07:45,574][5592][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:07:56,431][5592][INFO ][WinDemo.TimeTable:63] - 重新生成课表
+[13:08:02,006][5592][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:08:09,770][5592][INFO ][WinDemo.CourseInfo:77] - 删除：7,名称测试
+[13:09:01,131][4360][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:09:02,894][4360][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:09:12,230][4360][INFO ][WinDemo.SubCourse:115] - 添加用户测试
+[13:09:19,023][4360][INFO ][WinDemo.CourseInfo:77] - 删除：6,名称javaee
+[13:09:25,537][4360][INFO ][WinDemo.SubCourse:115] - 添加用户javaee
+[13:09:33,437][4380][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:09:38,311][4380][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:09:42,898][4380][INFO ][WinDemo.CourseInfo:77] - 删除：7,名称测试
+[13:11:07,189][4380][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:12:57,666][4380][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:14:04,366][4380][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:14:50,470][4380][INFO ][WinDemo.CourseInfo:77] - 删除：5,名称软件过程与质量保证
+[13:15:16,881][4380][DEBUG][WinDemo.SubCourse:143] - 修改操作
+[13:21:29,286][4380][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:41:03,582][1684][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:41:13,262][9528][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:41:14,618][9528][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[13:41:40,867][9528][INFO ][WinDemo.SubCourse:115] - 添加用户软件结构
+[13:41:46,371][9528][INFO ][WinDemo.TimeTable:63] - 重新生成课表
+[13:53:04,992][3124][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:26:41,390][2544][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:26:49,937][2544][INFO ][WinDemo.TimeTable:50] - 生成课表
+[14:27:31,899][3528][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:27:38,336][3528][INFO ][WinDemo.CourseInfo:77] - 删除：5,名称软件结构
+[14:27:46,055][5236][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:27:50,121][5236][INFO ][WinDemo.TimeTable:64] - 重新生成课表
+[14:29:53,577][6376][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:30:24,393][6376][INFO ][WinDemo.SubCourse:115] - 添加用户软件过程与质量保证
+[14:30:44,725][6376][DEBUG][WinDemo.SubCourse:143] - 修改操作
+[14:31:01,542][6092][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[14:31:08,168][6092][INFO ][WinDemo.TimeTable:64] - 重新生成课表
+[15:18:19,938][9672][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:19:21,272][9736][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:19:31,845][5832][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:19:36,160][5832][INFO ][WinDemo.TimeTable:64] - 重新生成课表
+[15:31:38,655][5596][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:39:14,881][4168][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:39:17,022][4168][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:39:22,414][4168][DEBUG][WinDemo.SubCourse:143] - 修改操作
+[15:41:23,283][9336][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[15:41:24,290][9336][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:35:29,997][8740][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:58:23,311][2648][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:58:27,612][2648][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[16:58:41,634][2648][INFO ][WinDemo.TimeTable:64] - 重新生成课表
+[17:01:00,854][4656][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:01:01,793][4656][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:01:38,197][4432][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:01:39,487][4432][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:02:16,474][5248][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:02:21,622][5248][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:02:29,264][5248][DEBUG][WinDemo.SubCourse:143] - 修改操作
+[17:04:10,023][5600][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:04:14,123][5600][INFO ][WinDemo.Main:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。

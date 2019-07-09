@@ -1,0 +1,54 @@
+[09:21:52,208][5368][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[09:21:53,837][5368][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:21:49,652][6192][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:23:41,690][6192][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[10:25:31,054][6192][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:22:28,284][10840][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:22:29,703][10840][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:22:40,789][10840][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:22:52,080][10840][ERROR][Win.Data.oracleDao:368] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:25:24,988][11968][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:25:25,264][11968][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:25:27,281][11968][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:25:38,373][11968][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:25:39,366][11968][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:26:00,683][6428][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:27:41,089][6428][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:28:37,359][9488][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:28:45,773][10076][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:28:46,518][10076][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:28:49,820][10076][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:28:58,525][10076][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:32:05,865][6660][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:32:06,720][6660][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:32:36,925][11308][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:32:37,525][11308][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:33:02,870][11308][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:33:07,121][11308][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:33:07,572][11308][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:34:48,755][3192][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:34:49,375][3192][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:34:52,432][3192][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:35:40,078][6384][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:35:40,672][6384][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:35:43,632][6384][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:35:52,183][7912][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:35:53,156][7912][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:35:56,799][7912][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:37:23,963][7912][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
+[17:37:34,621][4412][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:37:35,268][4412][INFO ][WinDemo.Form1:47] - 操作系统：32位,客户端IP地址:10.180.80.118,Mac地址:50:65:F3:49:11:E3。
+[17:37:38,376][4412][ERROR][Win.Data.oracleDao:341] - oracle数据错误:ORA-00933: SQL command not properly ended
+
