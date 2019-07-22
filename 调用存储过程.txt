@@ -1,0 +1,28 @@
+string[] returnparm = new string[2];
+        string errinfo = "";
+        string sysTime = "";
+        string sysIndex = "";
+        dao.RunProcedure("SP_ZQ_Product_Entry_ZB", new OracleParameter[6]  { 
+                  new OracleParameter("v_FundCode", fundcode) { OracleType = OracleType.VarChar, Size=12 }, 
+                  new OracleParameter("v_ParentCode", parentCode) { OracleType = OracleType.VarChar, Size=12 },
+                  new OracleParameter("v_UserId", UserId) { OracleType = OracleType.Int32}, 
+                  new OracleParameter("v_State", state) { OracleType = OracleType.Int32}, 
+                  new OracleParameter("o_sysTime", OracleType.VarChar,20) { Direction = ParameterDirection.Output, OracleType = OracleType.VarChar },
+                  new OracleParameter("o_New_IDX", OracleType.VarChar,20) { Direction = ParameterDirection.Output, OracleType = OracleType.VarChar }
+               }, out returnparm, out errinfo);
+
+        sysTime = returnparm[0].Trim();//-----Êä³ö?
+        sysIndex = returnparm[1].Trim();
+
+
+
+----------------·µ»Ø±í
+  DataSet dsKf = dao.RunProcedure("SP_ZQ_RPT_NewKF_FX", new OracleParameter[3]
+                {
+                  new OracleParameter("v_KFDate", kfDate) { OracleType = OracleType.VarChar, Size=8 }, 
+                  new OracleParameter("v_UserType", custType) { OracleType = OracleType.Int32 },
+                  new OracleParameter("o_cursor", "111") { Direction = ParameterDirection.Output, OracleType=OracleType.Cursor }
+                }, "KF_01");
+
+
+        dtmp = dsKf.Tables[0];
