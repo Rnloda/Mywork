@@ -1,0 +1,47 @@
+private void grdView_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int nRow = e.RowIndex;
+            if (nRow < 0)
+                return;
+ 
+            n_Id = int.Parse(grdView.Rows[nRow].Cells["ID_"].Value.ToString());
+        }
+ 
+        /// <summary>
+        /// ÐÞT¸Ä?Í¼a?Êéo¡§|
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnModify_Click(object sender, EventArgs e)
+        {
+            if (n_Id == 0)
+                return;
+ 
+            BookEidtForm edit = new BookEidtForm();
+            edit.N_Id = n_Id;
+            edit.ShowDialog();
+ 
+            GetQueryGrid(false);
+ 
+            int n = grdView.Rows.Count;
+            int nSelectRow = 0;
+            for (int i = 0; i < n; i++)
+            {
+                int nCode = int.Parse(grdView.Rows[i].Cells["ID_"].Value.ToString());
+                if (nCode == n_Id)
+                {
+                    grdView.Rows[i].Selected = true;
+                    nSelectRow = i;
+                }
+            }
+ 
+           if (nSelectRow > 18)
+            {
+                nSelectRow = nSelectRow - 12;
+                grdView.FirstDisplayedScrollingRowIndex = grdView.Rows[nSelectRow].Index;
+            }
+ 
+ 
+ 
+        }
+ 
